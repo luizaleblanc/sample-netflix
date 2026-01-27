@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const temporada = new mongoose.Schema({
   temporada_id: {
-    type: mongoose.type.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: "Filme",
   },
   titulo: String,

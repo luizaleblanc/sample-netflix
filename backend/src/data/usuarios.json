@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Anna",
+    "email": "anna@teste.com",
+    "senha": "123456",
+    "perfil": "user"
+  },
+  {
+    "id": 2,
+    "nome": "Luiza",
+    "email": "luiza@teste.com",
+    "senha": "123456",
+    "perfil": "user"
+  },
+  {
+    "id": 3,
+    "nome": "Carlos",
+    "email": "carlos@teste.com",
+    "senha": "123456",
+    "perfil": "user"
+  },
+  {
+    "id": 4,
+    "nome": "Marina",
+    "email": "marina@teste.com",
+    "senha": "123456",
+    "perfil": "user"
+  }
+]

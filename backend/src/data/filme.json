@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "titulo": "Enola Holmes",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/8FhKnPpql374qyyHAkZDld93IUw.png",
+    "thumb": "https://image.tmdb.org/t/p/original/3uTxPIdVEXxHpsHOHdJC24QebBV.jpg",
+    "descricao": "A irmã mais nova de Sherlock Holmes parte em uma aventura para encontrar sua mãe desaparecida e desvendar um grande mistério.",
+    "generos": ["Aventura", "Mistério", "Família"],
+    "elenco": ["Millie Bobby Brown", "Henry Cavill", "Sam Claflin"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+      "https://image.tmdb.org/t/p/original/q9Y0E4nXukF5Y5jz5KqC0z6sF3m.jpg",
+      "https://image.tmdb.org/t/p/original/6G3zNn6nP0Y8sL5bW9t7VDaN02r.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Stranger Things",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/9pYxv0c8G6z7nY6h9k5N9Aq0b8T.png",
+    "thumb": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "descricao": "Um grupo de crianças enfrenta forças sobrenaturais após o desaparecimento de um amigo.",
+    "generos": ["Drama", "Fantasia", "Terror"],
+    "elenco": ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/l4lq2Fh9j6G5V2sFZCq7Fz2y7sE.jpg",
+      "https://image.tmdb.org/t/p/original/7YqF0gK9mZ9nQFz8z3G5rH7ZtQF.jpg",
+      "https://image.tmdb.org/t/p/original/t5q4sQY2v1H5MZp6z0Yx7HqKp3J.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "The Witcher",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/7M1zZ5q8pF9Kx8G8cY9R8D9bM8L.png",
+    "thumb": "https://image.tmdb.org/t/p/original/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
+    "descricao": "Geralt de Rívia, um caçador de monstros solitário, luta para encontrar seu lugar em um mundo brutal.",
+    "generos": ["Fantasia", "Ação", "Drama"],
+    "elenco": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/9B1sXx8H2WmZ5b1Y5Z4E1lF5p3O.jpg",
+      "https://image.tmdb.org/t/p/original/1S4f9Z3q8Gm2k4Qx7E9D5Kc3z4M.jpg",
+      "https://image.tmdb.org/t/p/original/y7xE4m4bZ9N3H5YFQ1k8D5p2B1T.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Resgate",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/9q1p4W7q8G8b0F5MZ9E2R4T8C5S.png",
+    "thumb": "https://image.tmdb.org/t/p/original/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+    "descricao": "Um mercenário é enviado para resgatar o filho sequestrado de um poderoso criminoso.",
+    "generos": ["Ação", "Suspense"],
+    "elenco": ["Chris Hemsworth", "Rudhraksh Jaiswal"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/h5s4s6Y0p5mX2pN9R7b8Y5QK5H.jpg",
+      "https://image.tmdb.org/t/p/original/8m6Sg3X9F4ZP5KJ9Y2F7LQ8R1Z.jpg",
+      "https://image.tmdb.org/t/p/original/5Jp8Z5M4P7R9N6H3B2X1YFQ0Z.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "O Gambito da Rainha",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/9yNfY4w7E9pR1J4Z7xB0mK6XqZp.png",
+    "thumb": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+    "descricao": "Uma jovem prodígio do xadrez luta contra seus próprios demônios enquanto busca o topo do mundo.",
+    "generos": ["Drama"],
+    "elenco": ["Anya Taylor-Joy", "Thomas Brodie-Sangster"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/5Z5K8y8F5GZ9C9KpP5RZ1F7M9xS.jpg",
+      "https://image.tmdb.org/t/p/original/8FJ9pK6D5R8L3YF4H2M0N7ZQX1B.jpg",
+      "https://image.tmdb.org/t/p/original/3C5J9ZP7KQ4Y2H1X0L8F6R9M5B.jpg"
+    ]
+  },
+
+  {
+    "id": 6,
+    "titulo": "Dark",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/4X9Y8mH2Jk7RzvQ6F5N3Z5M8L9P.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/2ZJQ8H7YF4P5K6N9M0R3B1S8X.png",
+    "thumb": "https://image.tmdb.org/t/p/original/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "descricao": "O desaparecimento de crianças revela segredos sombrios e viagens no tempo.",
+    "generos": ["Ficção Científica", "Drama", "Mistério"],
+    "elenco": ["Louis Hofmann", "Lisa Vicari"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/k7Z5F9M6P2J8XQY1N4B3L5R0H.jpg",
+      "https://image.tmdb.org/t/p/original/4F3H9J2Y7B6Z8P1KX0M5LQNRD.jpg",
+      "https://image.tmdb.org/t/p/original/1Y5H4Z6M9R7K8QFJX3B2L0P.jpg"
+    ]
+  },
+
+  {
+    "id": 7,
+    "titulo": "Interstellar",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/6p0yYQ9WZ9B7M4N3L1R5X8KJH2.png",
+    "thumb": "https://image.tmdb.org/t/p/original/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg",
+    "descricao": "Exploradores viajam através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "generos": ["Ficção Científica", "Drama"],
+    "elenco": ["Matthew McConaughey", "Anne Hathaway"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/qC6b5C9W0C6H9y7FZ3T1F4ZQ3Y.jpg",
+      "https://image.tmdb.org/t/p/original/4z8kMZ9YF3K6Q2L7P5X1HBRD0.jpg",
+      "https://image.tmdb.org/t/p/original/5m1F4K3PZ7L0H2X9R8C6YB5JQ.jpg"
+    ]
+  },
+
+  {
+    "id": 8,
+    "titulo": "Breaking Bad",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/6R9dG7P8B4XQ5ZK3L2YF1JH0M.png",
+    "thumb": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "descricao": "Um professor de química se transforma em um dos maiores produtores de metanfetamina.",
+    "generos": ["Drama", "Crime"],
+    "elenco": ["Bryan Cranston", "Aaron Paul"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/9xK5F7B6JZP8L4C2YH1R0Q3M.jpg",
+      "https://image.tmdb.org/t/p/original/4Z2L3Y5H7B8P1M9QKX6C0R.jpg",
+      "https://image.tmdb.org/t/p/original/8F3L0Z5Q1J7B9K6H4P2CXR.jpg"
+    ]
+  },
+
+  {
+    "id": 9,
+    "titulo": "Avatar",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/4WJzN2K6Y0M9QH3B7P8R1L5XZF.png",
+    "thumb": "https://image.tmdb.org/t/p/original/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+    "descricao": "Um ex-fuzileiro se envolve em um conflito épico em um planeta distante.",
+    "generos": ["Ficção Científica", "Aventura"],
+    "elenco": ["Sam Worthington", "Zoe Saldana"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/2Y4p9Z5K3H6L0X7F8B1CJR.jpg",
+      "https://image.tmdb.org/t/p/original/5MZ9K6L7XH8C1F3B0R2QYJ.jpg",
+      "https://image.tmdb.org/t/p/original/9F0KZ5B8H1Q3C4M6Y7R2XJ.jpg"
+    ]
+  },
+
+  {
+    "id": 10,
+    "titulo": "Loki",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/6qL9R8M5F3B2JZ4K1P7Y0XH.png",
+    "thumb": "https://image.tmdb.org/t/p/original/ciK5E7H8A6E4ZJ4s2C9vT1NqS6.jpg",
+    "descricao": "O deus da trapaça enfrenta linhas do tempo alternativas.",
+    "generos": ["Ficção Científica", "Aventura"],
+    "elenco": ["Tom Hiddleston", "Owen Wilson"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/7KZ2Q8B5J4M9H6P1F0Y3XR.jpg",
+      "https://image.tmdb.org/t/p/original/3FZQY1B7M9P0L8H6C4J5XR.jpg",
+      "https://image.tmdb.org/t/p/original/5J3Z9M0C6P7Y8B2H4XK1RF.jpg"
+    ]
+  },
+
+  {
+    "id": 11,
+    "titulo": "Matrix",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/8ZP6KJ7R1M9QF2YH3B0X5L4C.png",
+    "thumb": "https://image.tmdb.org/t/p/original/7u3pxc0K1wx32IleAkLv78MKgrw.jpg",
+    "descricao": "Um hacker descobre a verdade sobre a realidade.",
+    "generos": ["Ficção Científica", "Ação"],
+    "elenco": ["Keanu Reeves", "Carrie-Anne Moss"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8QY0H5B3Z1M6F7C2X9RPLK.jpg",
+      "https://image.tmdb.org/t/p/original/6Z5Y7F8P1B9M0Q2K4CXRH.jpg",
+      "https://image.tmdb.org/t/p/original/3KZ9X2B1P7Y5H4C8F6QMR.jpg"
+    ]
+  },
+
+  {
+    "id": 12,
+    "titulo": "Peaky Blinders",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/bGZn5RVzMMXju4ev7xbl1aLdXqq.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/4B9H2F5QZ6M7K8X1C0YJPR.png",
+    "thumb": "https://image.tmdb.org/t/p/original/9Rr8bZ6S9z4K8nZJYF4M6R3Z8X.jpg",
+    "descricao": "Uma família criminosa domina Birmingham após a Primeira Guerra.",
+    "generos": ["Drama", "Crime"],
+    "elenco": ["Cillian Murphy", "Helen McCrory"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8X2MZ7Q1H9B6P5F3Y0C4KR.jpg",
+      "https://image.tmdb.org/t/p/original/4B8QY3M6F7X2KZ1R9P0HC5.jpg",
+      "https://image.tmdb.org/t/p/original/6F2KX5H8Z7C1Y9M3P4R0BQ.jpg"
+    ]
+  },
+
+  {
+    "id": 13,
+    "titulo": "Inception",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/2H6PZKJ4B7M0X5QF3C9Y8R1L.png",
+    "thumb": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+    "descricao": "Ladrões invadem sonhos para roubar segredos.",
+    "generos": ["Ação", "Ficção Científica"],
+    "elenco": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8ZK3C9F5P2R0M6Y4X1H7BQ.jpg",
+      "https://image.tmdb.org/t/p/original/2F4Q8C9B1X0H6K7PZMY5R.jpg",
+      "https://image.tmdb.org/t/p/original/5P1M8Y9H7X2Q6K3C4BZR0.jpg"
+    ]
+  },
+
+  {
+    "id": 14,
+    "titulo": "The Last of Us",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/3R6MZP9F5YH1KQ8X4J0C7BL.png",
+    "thumb": "https://image.tmdb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+    "descricao": "Sobreviventes cruzam os EUA em um mundo pós-apocalíptico.",
+    "generos": ["Drama", "Ação"],
+    "elenco": ["Pedro Pascal", "Bella Ramsey"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/5Z6B8P4K1XQ3F9H7C0RMY.jpg",
+      "https://image.tmdb.org/t/p/original/9H3K6Z0B8F2M4P1YXR5C.jpg",
+      "https://image.tmdb.org/t/p/original/7P0Z8X1H9K5M3F6YQRCB.jpg"
+    ]
+  },
+
+  {
+    "id": 15,
+    "titulo": "Duna",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/3KZ8C0QY2H7P9J1B5M4FRX6.png",
+    "thumb": "https://image.tmdb.org/t/p/original/9Mek9EH9tZh7hSC9K2sX3iC1uM2.jpg",
+    "descricao": "Uma jornada épica em um planeta desértico repleto de intrigas.",
+    "generos": ["Ficção Científica", "Aventura"],
+    "elenco": ["Timothée Chalamet", "Zendaya"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/7H0X2KQ4ZP9YB8M1F6R5C3.jpg",
+      "https://image.tmdb.org/t/p/original/6P9Z1B0K4H7Q5Y2M8RCXF.jpg",
+      "https://image.tmdb.org/t/p/original/5F6Y3M8ZQ1P7X2H0RKC4B.jpg"
+    ]
+  },
+
+  {
+    "id": 16,
+    "titulo": "The Mandalorian",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/1F5Z0B8Q9X7M4C2Y6K3PJR.png",
+    "thumb": "https://image.tmdb.org/t/p/original/o7qi2v4uWQ8bZ1tW0ZJcOqK9Q1O.jpg",
+    "descricao": "Um caçador de recompensas atravessa a galáxia.",
+    "generos": ["Aventura", "Ficção Científica"],
+    "elenco": ["Pedro Pascal"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8FZ6H5M7P0Y2C9K1QX4BR.jpg",
+      "https://image.tmdb.org/t/p/original/3KZ9F6Y5P8XH1M0C4RBQ.jpg",
+      "https://image.tmdb.org/t/p/original/7X5B4M1H0K8Z6C9RQP2F.jpg"
+    ]
+  },
+
+  {
+    "id": 17,
+    "titulo": "Gladiador",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/9F0X3C5P2Y8KZ7B4M1R6H.png",
+    "thumb": "https://image.tmdb.org/t/p/original/7PBX9F5RZ6M4Y1Q8C2HK.jpg",
+    "descricao": "Um general romano busca vingança após ser traído.",
+    "generos": ["Ação", "Drama"],
+    "elenco": ["Russell Crowe", "Joaquin Phoenix"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8Z1P4Y5C6M9KX7H2QBR0F.jpg",
+      "https://image.tmdb.org/t/p/original/6M8Z7C5X1F4B9K0QYHPR.jpg",
+      "https://image.tmdb.org/t/p/original/5P0Y7C8ZQ1K6M4FBRX9H.jpg"
+    ]
+  },
+
+  {
+    "id": 18,
+    "titulo": "La Casa de Papel",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/8Z5K1Q0Y7H9X4F2MCR6BPJ.png",
+    "thumb": "https://image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+    "descricao": "Um grupo executa o maior assalto da história.",
+    "generos": ["Crime", "Drama"],
+    "elenco": ["Úrsula Corberó", "Álvaro Morte"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/7F8Z6H0P4C1QY5M9KRBX.jpg",
+      "https://image.tmdb.org/t/p/original/3Q5F8M7Z1Y0C6H4B2X9KP.jpg",
+      "https://image.tmdb.org/t/p/original/6Z4Y5M2C9P1F8X7KHB0QR.jpg"
+    ]
+  },
+
+  {
+    "id": 19,
+    "titulo": "Homem-Aranha: Sem Volta Para Casa",
+    "tipo": "filme",
+    "capa": "https://image.tmdb.org/t/p/original/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/3H7Z6F0C2P1M8B4QKX9RY5J.png",
+    "thumb": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "descricao": "Peter Parker enfrenta consequências multiversais.",
+    "generos": ["Ação", "Aventura"],
+    "elenco": ["Tom Holland", "Zendaya"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8K5MZ4F1C7P2X6H9B0QY.jpg",
+      "https://image.tmdb.org/t/p/original/3Z1P9M4K5F7XH0Y6BQC8R.jpg",
+      "https://image.tmdb.org/t/p/original/6X9Z2K3F1M5H8P4C7BQY.jpg"
+    ]
+  },
+
+  {
+    "id": 20,
+    "titulo": "Arcane",
+    "tipo": "serie",
+    "capa": "https://image.tmdb.org/t/p/original/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "logo": "https://image.tmdb.org/t/p/original/4C5PZ7M1Y8Q2B9KXH6R0F3J.png",
+    "thumb": "https://image.tmdb.org/t/p/original/2Zl9n6zY0pK3Zx7u9U7k1xUOq5A.jpg",
+    "descricao": "Duas irmãs seguem caminhos opostos em uma cidade dividida.",
+    "generos": ["Animação", "Ação", "Drama"],
+    "elenco": ["Hailee Steinfeld", "Ella Purnell"],
+    "cenas_momentos": [
+      "https://image.tmdb.org/t/p/original/8ZP2C4F0M6Y7K9H1X5RQB.jpg",
+      "https://image.tmdb.org/t/p/original/3FZ7M8H5P1C0Q2Y9BRK6X.jpg",
+      "https://image.tmdb.org/t/p/original/6M2H9X8F3Q5P1ZK0BR7CY.jpg"
+    ]
+  }
+]
