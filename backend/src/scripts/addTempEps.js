@@ -2,6 +2,7 @@ const database = require("../services/database");
 const Filme = require("../models/filme");
 const Temporada = require("../models/temporada");
 const Episodio = require("../models/episodio");
+const episodio = require("../models/episodio");
 
 const addTempsEps = async () => {
   try {
@@ -18,7 +19,6 @@ const addTempsEps = async () => {
 
       for (let i = 1; i <= numTemporadas; i++) {
         console.log(`   ↳ Inserindo Temporada ${i} de ${numTemporadas}`);
-
         const temporadaCriada = await new Temporada({
           filme_id: serie._id,
           titulo: `Temporada ${i}`,
